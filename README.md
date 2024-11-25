@@ -1,6 +1,6 @@
 # Programming for AI Assignment 2
 
-**The paper selected was "Long-Term Coronary Artery Disease Risk Prediction with Machine Learning Models", published on 20 January 2023, in the HEC W Category ranked journal, Sensors.**
+**The paper selected for this assignment was "Long-Term Coronary Artery Disease Risk Prediction with Machine Learning Models", published on 20 January 2023, in the HEC W Category ranked journal, Sensors.**
 
 The paper is linked [here](https://www.mdpi.com/1424-8220/23/3/1193).
 
